@@ -1,0 +1,15 @@
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.exe
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.runtimeconfig.json
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.dll
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.pdb
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfoInputs.cache
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.sourcelink.json
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.dll
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\refint\DesignPatterns.dll
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.pdb
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.genruntimeconfig.cache
+E:\hard\sideProjects\New folder\DesignPatterns\DesignPatterns\obj\Debug\net8.0\ref\DesignPatterns.dll
